@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resume Parser Frontend
 
 This is the frontend part of the Resume Parser application, built with React and styled with Tailwind CSS.
@@ -55,3 +56,6 @@ This will generate optimized static files in the `build/` directory that can be 
 
 - Make sure the backend server is running at http://localhost:5000 before using the application
 - The frontend expects the backend API endpoints to be prefixed with `/api` 
+=======
+# Resume-Parsing
+>>>>>>> 7afa035b8cced3a5df981caf901c5fb8a15d4aa5
